@@ -16,4 +16,5 @@
 .prettierignore
 # Avoid uploading the styleguide file
 style-guide.md
+# Avoid uploading the preview image in JPG format
 preview.jpg
